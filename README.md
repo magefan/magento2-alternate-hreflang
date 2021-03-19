@@ -99,4 +99,5 @@ Learn how to configure Magento 2 Alternate Hreflang extension in Magento 2 [in t
   * [Magento 2 Zendesk Chat Extension](https://magefan.com/magento-2-zendesk-chat-extension)
   * [Magento 2 Admin View Extension](https://magefan.com/magento-2-admin-view-extension)
   * [Magento 2 Zero Downtime Deployment](https://magefan.com/blog/magento-2-zero-downtime-deployment)
+  * [Magento 2 Better Order Grid Extension](https://magefan.com/magento-2-better-order-grid-extension)
 
