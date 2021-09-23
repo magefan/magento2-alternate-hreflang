@@ -102,4 +102,5 @@ Learn how to configure Magento 2 Alternate Hreflang extension in Magento 2 [in t
   * [Magento 2 Better Order Grid Extension](https://magefan.com/magento-2-better-order-grid-extension)
   * [Magento 2 Admin Email Notifications](https://magefan.com/magento-2-admin-email-notifications)
   * [Magento 2 Facebook Pixel Extension](https://magefan.com/magento-2-facebook-pixel-extension)
+  * [Better Magento 2 Checkout Extension](https://magefan.com/better-magento-2-checkout-extension)
 
