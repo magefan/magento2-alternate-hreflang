@@ -71,7 +71,7 @@ Most of the store switching problems appear because there are no alternate tags 
 
 Learn how to configure Magento 2 Alternate Hreflang extension in Magento 2 [in this short video](https://www.youtube.com/watch?v=_dNAErMCUfA) and see how to set the alternate tags for Magento 2 blog post page [here](https://www.youtube.com/watch?v=bOBa_Nt7BiU).
 
-## Other [Magento 2 Extensions](https://magefan.com/magento2-extensions) by Magefan
+## Other [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
   * [Magento 2 Blog Extension](https://magefan.com/magento2-blog-extension)
   * [Magento 2 Blog Plus Extension](https://magefan.com/magento2-blog-extension/pricing)
   * [Magento 2 Blog Extra Extension](https://magefan.com/magento2-blog-extension/pricing)
