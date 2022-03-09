@@ -1,10 +1,12 @@
 # Magento 2 Hreflang Extension
+<img width="150" height="100" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
+
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/i/c/icon-alternative-tag.webp">
 
 Content duplication and redirect issues will be fixed with the [Magento 2 Alternate Hreflang](https://magefan.com/magento2-alternate-hreflang-extension) extension that allows you to set the alternate tags for your Magento 2 store pages easily. Connect your pages with the alt tags and let search engines know where to direct your customers and improve your multi-language store SEO and customer experience.
 
 
-<a href="https://magefan.com/magento2-alternate-hreflang-extension"><img width="300" height="60" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/DOWNLOAD_NOW.webp"></a>
+<a href="https://magefan.com/magento2-alternate-hreflang-extension"><img width="190" height="70" src="https://magefan.com/media/wysiwyg/download-now_1.png"></a>
 
 ## What are Alternate Tags?
 Alternate Tags are tags used to mark content in different languages to define the availability for different page variations.
