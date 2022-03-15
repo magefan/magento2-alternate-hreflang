@@ -88,7 +88,7 @@ Try out our open demo and if you like our extension **please give us some star o
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="https://aht.demo.magefan.top/en/blog/post/beauty/bonbon">
+        <a href="https://seo.demo.magefan.top/">
           <img
             src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-1.jpg"
             alt="Magento 2 Hreflang Tags Extension Storefront Demo"
@@ -97,7 +97,7 @@ Try out our open demo and if you like our extension **please give us some star o
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://aht.demo.magefan.top/admin/admin/">
+        <a href="https://seo.demo.magefan.top/admin/admin/system_config/edit/section/alternatehreflang/">
           <img
             src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-2.jpg"
             alt="Magento 2 Hreflang Tags Extension Admin Panel Demo"
@@ -108,12 +108,12 @@ Try out our open demo and if you like our extension **please give us some star o
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="https://aht.demo.magefan.top/en/blog/post/beauty/bonbon">
+        <a href="https://seo.demo.magefan.top/">
           view
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://aht.demo.magefan.top/admin/admin/">
+        <a href="https://seo.demo.magefan.top/admin/admin/system_config/edit/section/alternatehreflang/">
           view
         </a>
       </td>
