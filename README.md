@@ -202,7 +202,6 @@ The code is licensed under [EULA](https://magefan.com/end-user-license-agreement
 
 ### [Magento 2 Multi-Language Extensions](https://magefan.com/magento-2-extensions/multi-language-extensions)
 
-  * [Magento 2 Hreflang Tags](https://magefan.com/magento2-alternate-hreflang-extension)
   * [Magento 2 Auto Currency Switcher](https://magefan.com/magento-2-currency-switcher-auto-currency-by-country)
   * [Magento 2 Auto Language Switcher](https://magefan.com/magento-2-auto-language-switcher)
   * [Magento 2 GeoIP Store Switcher](https://magefan.com/magento-2-geoip-switcher-extension)
